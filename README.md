@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @excelaibot an AI-powered SaaS application.
+- 👀 I’m interested in helping people use Excel efficiently.
+- 🌱 I’m currently learning people's problems and finding solutions for them.
+- 💞️ I’m looking to collaborate on Excel formulas and explanations
+- 📫 How to reach me: excelaibot.pro
